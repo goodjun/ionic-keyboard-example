@@ -1,0 +1,7 @@
+{
+  "name": "ionic-keyboard-example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
